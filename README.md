@@ -86,7 +86,7 @@ sudo docker run \
     ghcr.io/pip700/journalfinderai:v1
 ```
 
-> **Linux users:** If `host.docker.internal` is unavailable, replace it with your host machine's IP address (for example `http://192.168.1.100:11434`).
+> **For AI-enabled Features:** Ollama replace it with your host machine's IP address (for example `http://192.168.1.100:11434`).
 
 ---
 
