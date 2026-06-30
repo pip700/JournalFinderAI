@@ -83,7 +83,7 @@ sudo docker run \
     --rm \
     -v $(pwd):/workspace \
     -p 8501:8501 \
-    ghcr.io/pip700/journalfinderai:v1
+    ghcr.io/pip700/journalfinderai:v2
 ```
 
 > **For AI-enabled Features:** Ollama replace it with your host machine's IP address (for example `http://192.168.1.100:11434`).
